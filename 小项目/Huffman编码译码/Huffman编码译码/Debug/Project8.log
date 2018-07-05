@@ -1,0 +1,22 @@
+﻿  源.cpp
+c:\users\eric_\source\repos\project8\project8\源.cpp(171): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+c:\users\eric_\source\repos\project8\project8\源.cpp(234): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\eric_\source\repos\project8\project8\源.cpp(210): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\eric_\source\repos\project8\project8\源.cpp(219): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\eric_\source\repos\project8\project8\源.cpp(233): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+c:\users\eric_\source\repos\project8\project8\源.cpp(261): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+c:\users\eric_\source\repos\project8\project8\源.cpp(335): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\eric_\source\repos\project8\project8\源.cpp(339): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\eric_\source\repos\project8\project8\源.cpp(343): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\eric_\source\repos\project8\project8\源.cpp(337): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdlib.h(1274): note: 参见“_sleep”的声明
+c:\users\eric_\source\repos\project8\project8\源.cpp(341): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdlib.h(1274): note: 参见“_sleep”的声明
+c:\users\eric_\source\repos\project8\project8\源.cpp(345): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdlib.h(1274): note: 参见“_sleep”的声明
+  Project8.vcxproj -> C:\Users\Eric_\source\repos\Project8\Debug\Project8.exe
